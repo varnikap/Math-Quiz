@@ -1,0 +1,20 @@
+body{
+    background-color: darkcyan;
+
+}
+h6{
+    font-weight: bold;
+
+}
+.container
+{
+    background-color: white;
+border-radius: 10px;
+width: 900px;
+
+}
+.login{
+    width: 500px;
+    background-color: darkblue;
+    color: white;
+}
