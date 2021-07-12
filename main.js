@@ -7,3 +7,4 @@ function addUser()
     localStorage.setItem("player2_name", player2_name);
 
     window.location = "game_page.html";
+}
