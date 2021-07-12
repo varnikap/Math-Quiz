@@ -1,0 +1,20 @@
+body{
+    background-color: darkcyan;
+
+}
+
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding:10px;
+    float: none;
+    text-align: left;
+}
+#number1c{
+width: 700px;
+}
+#number2c{
+    width: 700px;
+}
